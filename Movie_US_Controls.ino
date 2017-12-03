@@ -47,13 +47,9 @@ void loop() { //infinite loopy
   }
   calculate_distance(trigger1,echo1);
   distL =dist;
-  Serial.print("distL:");
-  Serial.println(dist);
   calculate_distance(trigger2,echo2);
   distR =dist;
-  Serial.print("distR:");
-  Serial.println(dist);
-
+  
   //Control Modes
   //Lock Left - Control Mode
   if (distL>=13 && distL<=17){
