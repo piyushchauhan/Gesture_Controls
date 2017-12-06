@@ -1,7 +1,10 @@
 # Gesture_Controls
+
+Media player does the controll operations like Volume, Forward, Rewind and Play/Pause as per gesture provided.
+
 ## Synopsis
 
-Aim of this project was to make a **gesture controlled systemI** to control the media player on the computer without using keyboard or mouse. This is achieved using hardwares such as Arduino, USB cable (type A to type B), two Ultrasonic Sensors and Jumper wires and a Breadboard.
+Aim of this project was to make a **gesture controlled system** to control the media player on the computer without using keyboard or mouse. This is achieved using hardwares such as Arduino, USB cable (type A to type B), two Ultrasonic Sensors and Jumper wires and a Breadboard.
 
 ## Code Example
 
