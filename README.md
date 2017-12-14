@@ -1,6 +1,6 @@
 # Gesture_Controls
 
-Media player does the controll operations like Volume, Forward, Rewind and Play/Pause as per gesture provided.
+Media player does the control operations like Volume, Forward, Rewind and Play/Pause as per gesture provided.
 
 ## Synopsis
 
@@ -12,21 +12,18 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-Convinience and ease of access to the user while entertainment was the sole motivation for the creation of this project.
+**Convinience** and **ease** of access to the user while entertainment was the sole motivation for the creation of this project.
 
 ## Installation
 
+Arduino IDE
 Python modules used:
 * serial
 * time
 * pyautogui
 
 Make sure that you have installed these modules installed.
-Provide code examples and explanations of how to get the project.
-
-## Tests
-
-## Contributors
+More details ar provided in the Wiki.
 
 ## Images
 
