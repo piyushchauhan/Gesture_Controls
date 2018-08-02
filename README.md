@@ -13,6 +13,14 @@ Aim of this project was to make a **gesture controlled system** to control the m
 3. Some Jumper wires
 4. Sticky Tape
 
+## Dependencies
+
+### Python libraries
+
+1. `serial`
+2. `pyautogui`
+3. `time`
+
 ## Code Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
